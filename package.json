@@ -1,0 +1,16 @@
+{
+  "name": "javascript-days-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cd app && npm install",
+    "start": "cd app && npm start"
+  },
+  "keywords": [],
+  "author": "Filip Hric (https://filiphric.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}
